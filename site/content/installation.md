@@ -1,5 +1,7 @@
 # Installing Python
 
+*The following information comes from the Python User Group website. You can join the group on Slack at #python-users or contact Erika Tyagi (etyagi@urban.org) or Michelle Menezes (mmenezes@urban.org) with any thoughts or questions about Python at the Urban Institute.*
+
 ## Python 2 or 3? 
 
 [**Python 2.x is legacy, Python 3.x is the present and future of the language.**](https://wiki.python.org/moin/Python2orPython3)
